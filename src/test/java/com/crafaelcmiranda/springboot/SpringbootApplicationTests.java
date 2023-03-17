@@ -1,4 +1,4 @@
-package github.com.crafaelcmiranda.springboot;
+package com.crafaelcmiranda.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
