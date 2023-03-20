@@ -1,4 +1,4 @@
-package com.crafaelcmiranda.springboot;
+package com.crafaelcmiranda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

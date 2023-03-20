@@ -1,4 +1,4 @@
-package com.crafaelcmiranda.springboot;
+package com.crafaelcmiranda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
